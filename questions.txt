@@ -1,0 +1,44 @@
+1.	Explain what a variable is -
+
+A Python variable is a label name for a reserved memory location that stores data values.
+Every value has a datatype. Unlike many other programming languages where you declare a variable to have a specific
+data type and it must always have that data type, variables in Python can be assigned one data type and later re-assigned
+to a different.
+
+2.	Explain what a function is -
+
+The definition of a function in the mathematics is - 'an expression, rule,
+or law that defines a relationship between one variable (the independent variable)
+and another variable (the dependent variable)'
+
+In programming, a function is a block of code that contains the instructions to create an output
+based on its input. A function can be used over and over again. When a call to the function is made,
+the program stop executing the code on the current section and starts execute the first line inside the function.
+
+3.	Explain what a program is -
+
+A program is a specific set of ordered instructions for a computer to perform a task.
+A program can be categorized as an interactive program, which requires user interaction to operate
+or a batch program, that just runs, does what it is created for and then stops.
+
+4.	Explain what makes a program effective -
+
+* Good user experience - It needs to be easy to use and give the user a pleasure experience to interact with.
+* Good availability - It needs to be ready to run functions etc. when needed.
+* Good performance - It needs to perform in certain speed to meet different requirements.
+* Easy scalability - Be able to easy change in size, both increase and decrease.
+* Easy adaptability - Be able to easy change in functionality.
+* Good security - Have good security, to prevent attacks and ensure integrity.
+* Good economy - Be cost efficient to build, change and maintain without compromising the quality of the program.
+
+
+5.	Explain what effective programming is -
+
+* Use coding standards - It will make it easier for other developers to adapt to your code.
+* Quality, not quantity - Good quality code is harder to write but easier to maintain in the long run.
+* Write useful comments - Makes the code easier to read and understand for you and other developers.
+* Refactor your code - Multiple lines of code can often be split up to several functions for more availability.
+* Use naming conventions - Use describing names and use naming conventions such as camelCase, snake_case etc.
+* Use version control software - Such as GIT, to keep track of modifications and be able to turn back to previous
+version if a mistake is made och error occur.
+* Testing/Bugfix - Use testing tools and debugger often. The cost of fixing bugs grows exponentially over time.
